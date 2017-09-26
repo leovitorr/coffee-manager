@@ -1,0 +1,22 @@
+{
+  "name": "coffee-manager",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "restfy": "6.0.1",
+    "restify": "^6.0.1",
+    "restify-errors": "^5.0.0",
+    "restify-plugins": "^1.6.0"
+  },
+  "main": "app.js",
+  "author": "Leo Vitor Carradore",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
